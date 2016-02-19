@@ -6,7 +6,11 @@ Ini adalah File project latihan membuat Sistem Informasi Geografis dengan menggu
 <p>adapun package digunakan dalam project ini adalah :</p>
 <h3>
 1. Package Google Maps api dari Biostal : http://biostall.com/laravel-google-maps-v3-api-package
+2. Digantikan dengan https://github.com/GeneaLabs/Phpgmaps/
 <br>
 <br>
-2. Bootstrap : http://packalyst.com/packages/package/cornford/bootstrapper
-</h3>
+Bisa Dilihat Setting PHPgmapsnya di package GeneaLabs Tersebut.
+..
+<code>
+Support Laravel 5
+</code>
