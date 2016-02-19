@@ -5,8 +5,8 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		"laravel/framework": "4.2.*",
-		"appitventures/phpgmaps": "dev-master",
+		"laravel/framework": "5.2.*",
+		"genealabs/phpgmaps": "~0.3.0",
 		"cornford/bootstrapper": "1.*"
 	},
 	"autoload": {
